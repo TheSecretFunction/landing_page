@@ -1,1 +1,1 @@
-# landing_page
+This is the shell of a typical landing page as an exercise to practice creating a webpage using HTML, CSS, and Flexbox. It encompasses utilizing tags to be able to create a layout that is typically seen in a product landing page.
